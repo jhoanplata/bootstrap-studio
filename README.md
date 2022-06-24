@@ -1,5 +1,5 @@
-#Bootstrap Studio
+<h2>Bootstrap Studio</h2>
 
-- Practica con el software bootstrap studio recreando una replica de la pagina actual de Apple
+- Práctica con el software bootstrap studio recreando una réplica de la página actual de Apple
 
-- Se nota una diferencia de colores al colocarlos en bootstrap, pues cuando esta en linea con vscode cambia y si toma los colores que se colocaron
+- Se nota una diferencia de colores al colocarlos en bootstrap, pues cuando está en línea con vscode cambia y si toma los colores que se colocaron
